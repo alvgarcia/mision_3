@@ -52,7 +52,7 @@ src/
 
 ## Uso de IA
 
-He utilizado GitHub Copilot como apoyo para migrar progresivamente la interfaz del proyecto de M2 a React 19, organizarla en componentes y módulos, revisar la estructura de carpetas y redactar este README. Estos son ejemplos representativos de prompts que utilicé, redactados para resumir las peticiones:
+He utilizado GitHub Copilot como apoyo para migrar progresivamente la interfaz del proyecto de M2 a React 19, organizarla en componentes y módulos, revisar la estructura de carpetas. Estos son ejemplos representativos de prompts que utilicé, redactados para resumir las peticiones:
 
 1. **Planificar la migración:**  
    > Quiero adaptar este proyecto a React 19 paso a paso usando el código existente. Inspecciona primero los archivos y explícame cómo migrarías la interfaz.
