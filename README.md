@@ -99,4 +99,4 @@ Si la API devuelve un error o no se puede consultar, la aplicación muestra el m
 
 El servicio consulta rutas bajo `/api/euroliga`. Durante el desarrollo, la configuración de Vite en `vite.config.js` reenvía esas peticiones a `https://api-live.euroleague.net`, quitando el prefijo `/api/euroliga`.
 
-Si la API no está disponible o devuelve una respuesta inválida, la interfaz muestra el error y permite volver a intentarlo. No se cargan datos ficticios como alternativa.
+Si la API no está disponible o devuelve una respuesta inválida, la interfaz muestra el error y permite volver a intentarlo.
